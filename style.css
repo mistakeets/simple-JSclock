@@ -11,9 +11,9 @@
     .clock {
       height: 500px;
       width: 500px;
-      background-color: #DDDDDD;
+      background-color: #FADF5A;
       border-radius: 100%;
-      border: 3px solid #AAAAAA;
+      border: 3px solid #BAA643;
       margin: auto;
       position: absolute;
       top: 0; left: 0; bottom: 0; right: 0;
@@ -23,18 +23,18 @@
     position: absolute;
     width: 3px;
     height: 15px;
-    background: #111111;
+    background: #3B3415;
     left: 0;
     top: 0;
     right: 0;
     margin: 0 auto;
-  }
+   }
 
   .three {
     position: absolute;
     width: 15px;
     height: 3px;
-    background: #111111;
+    background: #3B3415;
     top: 0;
     bottom: 0;
     right: 0;
@@ -45,7 +45,7 @@
     position: absolute;
     width: 3px;
     height: 15px;
-    background: #111111;
+    background: #3B3415;
     left: 0;
     bottom: 0;
     right: 0;
@@ -56,7 +56,7 @@
     position: absolute;
     width: 15px;
     height: 3px;
-    background: #111111;
+    background: #3B3415;
     top: 0;
     bottom: 0;
     left: 0;
@@ -69,7 +69,7 @@
      position: absolute;
      left: 0; right: 0; bottom: 0; top: 0;
      margin: auto;
-     background: #000;
+     background: #3B3415;
      border-radius: 100%;
    }
 
@@ -81,7 +81,7 @@
      margin: auto;
      background: #000;
      -webkit-transform-origin: bottom;
-     background: #ff6503;
+     background: #BA0000;
   }
 
   #minutes {
@@ -90,7 +90,7 @@
     width: 2px;
     left: 0; right: 0; bottom: 200px; top: 0px;
     margin: auto;
-    background: #000;
+    background: #3B3415;
     -webkit-transform-origin: bottom;
   }
 
@@ -100,6 +100,6 @@
     width: 6px;
     left: 0; right: 0; bottom: 80px; top: 0px;
     margin: auto;
-    background: #000;
+    background: #3B3415;
     -webkit-transform-origin: bottom;
   }
